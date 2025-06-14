@@ -11,7 +11,7 @@ A powerful, clean, and private desktop image converter. Convert, resize, and man
 
 ---
 
-*Şuraya, önceki adımdaki gibi, .github/images/imageforge_demo.gif dosyanın görünmesi gerekiyor. Eğer görünmüyorsa, yolunu kontrol et veya görselin yüklenmesini bekle.*
+
 
 ![ImageForge Demo](.github/images/imageforge_demo.gif)
 
