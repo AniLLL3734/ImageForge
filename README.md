@@ -48,7 +48,7 @@ No installation required!
 1.  Go to the [**Latest Release Page**](https://github.com/AniLLL3734/ImageForge/releases).
 2.  Download the `ImageForge_vX.X.X.zip` file.
 3.  Unzip the file anywhere on your computer.
-4.  Run `ImageForge.exe`. That's it!
+4.  Run `UzantiCeviriciAdvanced.exe`. That's it!
 
 ---
 
